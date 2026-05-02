@@ -1,0 +1,13 @@
+{
+  "name": "jest-testing-project",
+  "version": "1.0.0",
+  "description": "Jest testing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
